@@ -1,1 +1,1 @@
-alert('Welcome to my Page')
+window.alert("Welcome to my site!")
